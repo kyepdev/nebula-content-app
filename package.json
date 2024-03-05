@@ -1,0 +1,20 @@
+{
+  "name": "nebula-content-app",
+  "version": "0.1.1",
+  "description": "An application using Quantum CMS for content management",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kyepdev/nebula-content-app.git"
+  },
+  "author": "kyepdev",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.13.2",
+    "nebula-content-app": "^0.1.0",
+    "quantum-cms": "^0.1.0"
+  }
+}
